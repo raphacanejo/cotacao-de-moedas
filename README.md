@@ -9,8 +9,8 @@ Clicando no botão "MOSTRAR COTAÇÕES" o programa irá exibir a cotação atual
 
 ![image](https://user-images.githubusercontent.com/98648504/233419114-53b4accb-bdb9-4763-bcc6-155895be13b9.png)
 
-# Criar executável do programa
-Com o ambiente virtual criado, para criar um executável do programa só seguir os passos a seguir:
+# Executável do programa
+Dentro da pasta dist tem um executável do programa. Se fizer alterações no programa e queira criar um novo executável só seguir os passos a seguir:
 
 1. É necessário instalar a ferramenta que vai criar o executáve. Abra o terminal e digite:
 ~~~~
